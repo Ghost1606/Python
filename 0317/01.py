@@ -1,0 +1,5 @@
+x = int(input("첫번째 정수를 입력하시오 : "))
+y = int(input("두번째 정수를 입력하시오 : "))
+
+sum = x + y
+print(sum)
